@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, World 👋
+
+- 🔭 使用 JavaScript, TypeScript, Vue, React, Node.js...
+- 📖 参与翻译了[《精通模块化 JavaScript》](https://www.oreilly.com/library/view/javascript/9787121387074/)
+- 👨‍🎓 SCUT
+- 📍 Shanghai
+- 📒 https://zhuscat.com
 
 <!--
 **zhuscat/zhuscat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
